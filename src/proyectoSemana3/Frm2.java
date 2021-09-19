@@ -59,7 +59,7 @@ public class Frm2 extends JFrame {
 		lblNewLabel_2.setBounds(32, 185, 46, 14);
 		contentPane.add(lblNewLabel_2);
 		
-		JButton btnNewButton = new JButton("Holaa");
+		JButton btnNewButton = new JButton("Holaaa");
 		btnNewButton.setForeground(Color.BLUE);
 		btnNewButton.setBackground(Color.BLUE);
 		btnNewButton.setBounds(29, 236, 558, 14);
